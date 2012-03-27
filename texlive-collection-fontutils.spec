@@ -1,4 +1,4 @@
-# revision 24759
+# revision 25704
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,9 +6,9 @@
 # catalog-version undef
 Name:		texlive-collection-fontutils
 Epoch:		1
-Version:	20120224
+Version:	20120327
 Release:	1
-Summary:	Graphics TeX and outline font utilities
+Summary:	Graphics and font utilities
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
