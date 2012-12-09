@@ -48,3 +48,16 @@ PostScript and other images.
 %build
 
 %install
+
+
+%changelog
+* Tue Mar 27 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120327-1
++ Revision: 787847
+- Update to latest release.
+
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780296
+- Update to latest release.
+- Import texlive-collection-fontutils
+- Import texlive-collection-fontutils
+
