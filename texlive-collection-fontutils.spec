@@ -7,7 +7,7 @@
 Name:		texlive-collection-fontutils
 Epoch:		1
 Version:	20180303
-Release:	2
+Release:	3
 Summary:	Graphics and font utilities
 Group:		Publishing
 URL:		http://tug.org/texlive
