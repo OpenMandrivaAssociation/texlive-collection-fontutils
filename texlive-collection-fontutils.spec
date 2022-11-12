@@ -1,18 +1,12 @@
-# revision 30396
-# category Collection
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-collection-fontutils
 Epoch:		1
-Version:	20190228
+Version:	61207
 Release:	1
 Summary:	Graphics and font utilities
 Group:		Publishing
 URL:		http://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
-Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-fontutils.tar.xz
+Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-fontutils.r61207.tar.xz
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
@@ -43,7 +37,7 @@ PostScript and other image formats.
 
 #-----------------------------------------------------------------------
 %prep
-%setup -c -a0
+%autosetup -p1 -c
 
 %build
 
